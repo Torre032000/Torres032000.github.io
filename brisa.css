@@ -16,7 +16,7 @@ body {
 .slider-box ul{
     display: flex;
     padding: 0;
-    width: 400%;
+    width: 500%;
     animation: slide 10s infinite alternate ease-in-out;
 }
 .slider-box li{
